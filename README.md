@@ -9,5 +9,3 @@ Change 3 from branch1
 
 Change 4 from branch 1
 
-Himanshu Shukla
-R970216093  
